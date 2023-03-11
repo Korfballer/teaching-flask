@@ -1,0 +1,8 @@
+# Get constraints from requirements.txt
+--constraint requirements.txt
+
+ipykernel
+jupytext>=1
+pre-commit>=3.1
+pytest>=6
+ruff
